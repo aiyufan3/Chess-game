@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "145912239392",
+    "project_id": "project2-98e62",
+    "storage_bucket": "project2-98e62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145912239392:android:8511bacfd59a9577317345",
+        "android_client_info": {
+          "package_name": "edu.msu.meikenny.chess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145912239392-s1prcuc70tnqf5dmfqc066vu5m6g4htg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.msu.meikenny.chess",
+            "certificate_hash": "09ef2cd6b2a5b29f2b0c085e2b6e315b06906293"
+          }
+        },
+        {
+          "client_id": "145912239392-vqcjq8keuet3a2g8p502jo312ma6qahd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzdID6Yw4uHtb3gnK8a1uz1YDIaJ4m3nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145912239392-vqcjq8keuet3a2g8p502jo312ma6qahd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

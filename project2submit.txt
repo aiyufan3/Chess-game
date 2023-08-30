@@ -1,0 +1,60 @@
+
+Project 2 Submission
+
+Group Name:   Team 9
+
+When you have completed the project, complete the following form and include it with your project. Include this file as a text file in the folder with your project when you turn it in. 
+
+For the Checkpoint, Describe a sequence of operations to create a new account and log onto the server:
+1. Load and open the Chess app
+2. At the bottom of the login page, press the Sign up button to create a new account
+3. Enter your preferred username and password
+4. You are now successfully logged in
+
+A functionality checklist will not be provided for the project. Treat this as you would a request from a client and identify what the client requires. 
+
+Member 1: Baraa Hegazy
+
+Responsibility: Create cloud class with all the necessary functions, post username, password to server from login page, store serialized game on database, load serialized game on database, client side game xml load and save, implemented firebase for realtime database communication for when multiplayer gameplay capability, created models for each php server action, created waiting dialog
+
+
+
+Member 2: Kenny Mei
+
+Responsibility: Create table for chess games, create table for chess logins, store serialized game on database, store serialized game on database, load serialized game on database, added and fixed php files for: chess-delete, chess-joingame, chess-loadboard, chess-login, chess-newgame, chess-saveboard, chess-signup, and Project2Testing php files
+
+
+
+Member 3: Veeresh Rajendran
+
+Responsibility: Create the server database, and populate catalog table with sample data, store serialized game on database, load serialized game on database added and fixed php files for: chess-delete, chess-joingame, chess-loadboard, chess-login, chess-newgame, chess-saveboard, chess-signup, and Project2Testing php files
+
+
+
+Member 4: Cameron Hurley
+
+Responsibility: Add login and catalog screens for chess games, add sign in and sign up buttons to login screen, waiting area dog box, add logout button, fixed layout issues pertaining to login screen
+
+
+
+Member 5: Yufan Ai
+
+Responsibility: Load in catalog of games, create service interface, client-side logout implementation in GameActivity, login persistence, update the password complexity, Thread.sleep() implementation
+
+
+
+
+User account the server-side communications is running under: 
+-https://www.cse.msu.edu/phpMyAdmin/index.php?route=/
+- Username: rajend23
+- Password: cse476pass!
+
+Paths to all server-side scripts: https://webdev.cse.msu.edu/~rajend23/cse476/project2/
+
+Calls in the code to the server (provide a class name and function, or URL used for debugging): https://webdev.cse.msu.edu/~rajend23/cse476/project2/Project2Testing.php
+
+Enhancements: 
+- When the king piece being killed by the other player, it will have a congratulations sounds on.
+- Password complexity check in login page
+- implemented firebase for realtime database communication for when multiplayer gameplay capability
+
